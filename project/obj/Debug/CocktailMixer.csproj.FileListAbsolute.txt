@@ -1,0 +1,47 @@
+E:\Projects\MemOptimize\CocktailMixer\CocktailMixer\bin\Debug\CocktailMixer.exe.config
+E:\Projects\MemOptimize\CocktailMixer\CocktailMixer\obj\Debug\CocktailMixer.csprojResolveAssemblyReference.cache
+E:\Projects\MemOptimize\CocktailMixer\CocktailMixer\obj\Debug\CocktailMixer.Properties.Resources.resources
+E:\Projects\MemOptimize\CocktailMixer\CocktailMixer\obj\Debug\CocktailMixer.csproj.GenerateResource.Cache
+E:\Projects\MemOptimize\CocktailMixer\CocktailMixer\bin\Debug\CocktailMixer.exe
+E:\Projects\MemOptimize\CocktailMixer\CocktailMixer\bin\Debug\CocktailMixer.pdb
+E:\Projects\MemOptimize\CocktailMixer\CocktailMixer\obj\Debug\CocktailMixer.exe
+E:\Projects\MemOptimize\CocktailMixer\CocktailMixer\obj\Debug\CocktailMixer.pdb
+E:\Projects\MemOptimize\CocktailMixer\CocktailMixer\obj\Debug\CocktailMixer.Form1.resources
+E:\Projects\MemOptimize\CocktailMixer\CocktailMixer\bin\Debug\MySql.Data.Entity.EF5.dll
+E:\Projects\MemOptimize\CocktailMixer\CocktailMixer\bin\Debug\MySql.Data.Entity.EF6.dll
+E:\Projects\MemOptimize\CocktailMixer\CocktailMixer\bin\Debug\MySql.Fabric.Plugin.dll
+E:\Projects\MemOptimize\CocktailMixer\CocktailMixer\obj\Debug\CocktailMixer.BarmenForm.resources
+E:\Projects\MemOptimize\CocktailMixer\CocktailMixer\obj\Debug\CocktailMixer.UserForm.resources
+E:\Projects\MemOptimize\CocktailMixer\CocktailMixer\obj\Debug\CocktailMixer.WarehousemanForm.resources
+C:\Users\user\Desktop\CocktailMixer\CocktailMixer\CocktailMixer\bin\Debug\CocktailMixer.exe.config
+C:\Users\user\Desktop\CocktailMixer\CocktailMixer\CocktailMixer\obj\Debug\CocktailMixer.exe
+C:\Users\user\Desktop\CocktailMixer\CocktailMixer\CocktailMixer\obj\Debug\CocktailMixer.pdb
+C:\Users\user\Desktop\CocktailMixer\CocktailMixer\CocktailMixer\obj\Debug\CocktailMixer.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\CocktailMixer\CocktailMixer\CocktailMixer\obj\Debug\CocktailMixer.BarmenForm.resources
+C:\Users\user\Desktop\CocktailMixer\CocktailMixer\CocktailMixer\obj\Debug\CocktailMixer.Form1.resources
+C:\Users\user\Desktop\CocktailMixer\CocktailMixer\CocktailMixer\obj\Debug\CocktailMixer.Properties.Resources.resources
+C:\Users\user\Desktop\CocktailMixer\CocktailMixer\CocktailMixer\obj\Debug\CocktailMixer.UserForm.resources
+C:\Users\user\Desktop\CocktailMixer\CocktailMixer\CocktailMixer\obj\Debug\CocktailMixer.WarehousemanForm.resources
+C:\Users\user\Desktop\CocktailMixer\CocktailMixer\CocktailMixer\obj\Debug\CocktailMixer.csproj.GenerateResource.Cache
+C:\Users\user\Desktop\CocktailMixer\CocktailMixer\CocktailMixer\bin\Debug\CocktailMixer.exe
+C:\Users\user\Desktop\CocktailMixer\CocktailMixer\CocktailMixer\bin\Debug\CocktailMixer.pdb
+C:\Users\user\Desktop\CocktailMixer\CocktailMixer\CocktailMixer\bin\Debug\MySql.Data.Entity.EF5.dll
+C:\Users\user\Desktop\CocktailMixer\CocktailMixer\CocktailMixer\bin\Debug\MySql.Data.Entity.EF6.dll
+C:\Users\user\Desktop\CocktailMixer\CocktailMixer\CocktailMixer\bin\Debug\MySql.Fabric.Plugin.dll
+C:\Users\user\Desktop\Новая папка\CocktailMixer\CocktailMixer\CocktailMixer\bin\Debug\CocktailMixer.exe.config
+C:\Users\user\Desktop\Новая папка\CocktailMixer\CocktailMixer\CocktailMixer\obj\Debug\CocktailMixer.exe
+C:\Users\user\Desktop\Новая папка\CocktailMixer\CocktailMixer\CocktailMixer\obj\Debug\CocktailMixer.pdb
+C:\Users\user\Desktop\Новая папка\CocktailMixer\CocktailMixer\CocktailMixer\obj\Debug\CocktailMixer.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\Новая папка\CocktailMixer\CocktailMixer\CocktailMixer\obj\Debug\CocktailMixer.BarForm.resources
+C:\Users\user\Desktop\Новая папка\CocktailMixer\CocktailMixer\CocktailMixer\obj\Debug\CocktailMixer.Form1.resources
+C:\Users\user\Desktop\Новая папка\CocktailMixer\CocktailMixer\CocktailMixer\obj\Debug\CocktailMixer.Properties.Resources.resources
+C:\Users\user\Desktop\Новая папка\CocktailMixer\CocktailMixer\CocktailMixer\obj\Debug\CocktailMixer.UserForm.resources
+C:\Users\user\Desktop\Новая папка\CocktailMixer\CocktailMixer\CocktailMixer\obj\Debug\CocktailMixer.WarehousemanForm.resources
+C:\Users\user\Desktop\Новая папка\CocktailMixer\CocktailMixer\CocktailMixer\obj\Debug\CocktailMixer.csproj.GenerateResource.Cache
+C:\Users\user\Desktop\Новая папка\CocktailMixer\CocktailMixer\CocktailMixer\bin\Debug\CocktailMixer.exe
+C:\Users\user\Desktop\Новая папка\CocktailMixer\CocktailMixer\CocktailMixer\bin\Debug\CocktailMixer.pdb
+C:\Users\user\Desktop\Новая папка\CocktailMixer\CocktailMixer\CocktailMixer\bin\Debug\MySql.Data.Entity.EF5.dll
+C:\Users\user\Desktop\Новая папка\CocktailMixer\CocktailMixer\CocktailMixer\bin\Debug\MySql.Data.Entity.EF6.dll
+C:\Users\user\Desktop\Новая папка\CocktailMixer\CocktailMixer\CocktailMixer\bin\Debug\MySql.Fabric.Plugin.dll
+C:\Users\user\Desktop\Новая папка\CocktailMixer\CocktailMixer\CocktailMixer\obj\Debug\CocktailMix.Form1.resources
+C:\Users\user\Desktop\Новая папка\CocktailMixer\CocktailMixer\CocktailMixer\obj\Debug\CocktailMix.BarForm.resources
